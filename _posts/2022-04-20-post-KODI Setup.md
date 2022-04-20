@@ -11,18 +11,20 @@ tags:
 ---
 
 This post is the common configurations I use for KODI.
-You can install KODI on anything with access to the
-   -Google play store
-   -Windows Store
-   -OR Download from: > <cite><a href="https://kodi.tv/download/">KODI Download Link</a></cite>
+You can install KODI on anything with access to the \
+   -Google play store \
+   -Windows Store\
+   -OR Download from: > <cite><a href="https://kodi.tv/download/">KODI Download Link</a></cite>\
 
 FREE
+
 Sign up for > <cite><a href="https://trakt.tv/auth/join">Trakt link</a></cite>
 
 > <cite><a href="https://troypoint.com/trakt/">Trakt how-to configure link</a></cite>
 
 
 PAID 16.00 EUR for 180 days
+
 Sign up for > <cite><a href="https://real-debrid.com/">Real-Debrid link</a></cite>
 
 > <cite><a href="https://troypoint.com/real-debrid/">Real-Debrid how-to configure link</a></cite>
