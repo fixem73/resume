@@ -8,7 +8,6 @@ tags:
   - Post Formats
   - readability
   - standard
-link: https://d1.awsstatic.com/whitepapers/AWS-Cloud-Transformation-Maturity-Model.pdf
 ---
 
 This post is the common configurations I use for KODI.
