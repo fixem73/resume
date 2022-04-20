@@ -27,11 +27,14 @@ Sign up for > <cite><a href="https://real-debrid.com/">Real-Debrid link</a></cit
 
 > <cite><a href="https://troypoint.com/real-debrid/">Real-Debrid how-to configure link</a></cite>
 <!--more-->
+
+
 ADD-ONS
 
 You will want to check this site each time you go to load an Add-on. Several times the developers abandon their projects and a new developer will pick it up, rename it and start a NEW add-on. 
 
 > <cite><a href="https://www.kodi-guide.com/best-kodi-addons/">Best Add-ons</a></cite>
+
 > <cite><a href="https://troypoint.com/kodi-sports-addons/">Best Sports Add-ons</a></cite>
 
 > <cite><a href="https://www.kodi-guide.com/the-crew-kodi-addon/">Install The Crew</a></cite>
