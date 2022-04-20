@@ -16,7 +16,7 @@ You can install KODI on anything with access to the \
    -Windows Store\
    -OR Download from: > <cite><a href="https://kodi.tv/download/">KODI Download Link</a></cite>\
 
-FREE
+FREE \
 
 Sign up for > <cite><a href="https://trakt.tv/auth/join">Trakt link</a></cite>
 
