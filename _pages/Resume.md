@@ -4,13 +4,6 @@ title: "Resume"
 ---
 
 <style>
-/* Make the headshot responsive (optional) */
-.resume-headshot {
-  max-width: 90px;
-  width: 20vw;
-  height: auto;
-}
-
 /* Responsive iframe wrapper */
 .gdoc-embed {
   width: 100%;
@@ -33,11 +26,6 @@ title: "Resume"
   }
 }
 </style>
-
-<img class="resume-headshot"
-     title="Jimmy Lamon"
-     alt="Jimmy Lamon"
-     src="https://github.com/fixem73/resume/blob/6bf708ccf9e5e5de1f8c5ae307d49de35ea6b8f4/assets/images/Jimmy%20Lamon%20profile%2090by90.png">
 
 <div class="gdoc-embed">
   <iframe
