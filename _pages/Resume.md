@@ -6,7 +6,21 @@ classes: wide
 author_profile: false
 ---
 
+<div class="resume-page">
+
 <style>
+/* Expand Resume content area beyond theme constraints */
+.resume-page {
+  max-width: none !important;
+}
+
+.resume-page .page__content,
+.resume-page .archive,
+.resume-page .page {
+  max-width: none !important;
+  width: 100% !important;
+}
+
 /* Responsive iframe wrapper */
 .gdoc-embed {
   width: 100%;
@@ -15,17 +29,16 @@ author_profile: false
 }
 
 .gdoc-embed iframe {
-  width: 100%;
-  max-width: 100%;
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
   border: 0;
-  /* Desktop-ish default height; adjust as desired */
   height: 2200px;
 }
 
-/* Mobile: give it more vertical room */
 @media (max-width: 768px) {
   .gdoc-embed iframe {
-    height: 2600px; /* tweak based on your doc length */
+    height: 2600px;
   }
 }
 </style>
@@ -36,4 +49,6 @@ author_profile: false
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
+</div>
+
 </div>
